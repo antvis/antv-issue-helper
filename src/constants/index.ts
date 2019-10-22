@@ -6,6 +6,12 @@ export const REPO_CONFIG: { [repo: string]: RepoItem } = {
   g: {
     package: '@antv/g',
   },
+  'g-canvas': {
+    package: '@antv/g-canvas',
+  },
+  'g-svg': {
+    package: '@antv/g-svg',
+  },
   g2: {
     package: '@antv/g2',
   },
